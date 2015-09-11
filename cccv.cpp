@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("wensjhioweo");
+	printf("Try 1 time");
     return 0;
 }
 
