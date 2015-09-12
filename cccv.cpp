@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Try 2 TIME");
+	printf("Try Unix  TIME");
     return 0;
 }
 
