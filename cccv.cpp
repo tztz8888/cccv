@@ -1,13 +1,13 @@
 // cccv.cpp : Defines the entry point for the console application.
 //
-
-#include "stdafx.h"
-
+#include<stdio.h>
+#include<iostream>
+using namespace std;
 
 int main()
 {
-	printf(" Give you some sunshine");
-	printf(" Go hell Try Unix  TIME");
+	cout<<"wenshiwei"<<endl;
+	cout<<"give me some sunshine"<<endl;
     return 0;
 }
 
