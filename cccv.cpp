@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Try Unix  TIME");
+	printf(" Go hell Try Unix  TIME");
     return 0;
 }
 
